@@ -84,3 +84,8 @@ console.log(dieselCars);
 
 console.log('Tutte le altre auto');
 console.log(otherCars);
+
+// 1. E' stato creato una struttura di dati contenente le automobili con marca, modello e alimentazione. Successivamente in base all'alimentazione stampa in console le auto corrispondenti
+// 2. -non c'è la , nel penultimo elemento dell'Array.
+//     -nel primo filter non c'è il return
+//     -è stato usato || invece di &&
